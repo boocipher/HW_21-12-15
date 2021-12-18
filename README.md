@@ -5,20 +5,20 @@
 This is the code for a simple landing web page that contains navigation bar that provides quick acess to different sections on the page, images, and sections with key info. The original code was provided as part of the Full Stack Web Dev Bootcamp at the University of Austin. Make sure to check them out [here](https://techbootcamps.utexas.edu/coding/) 
 
 ## What Is The Objective?
-Refactor the code so that it's optimized for search engines and meets accessibility standards
+My objective was to refactor the code so that it's optimized for search engines and meets accessibility standards.
 
-**Refactoring** existing code (improving it without changing what it does) to meet a certain set of standards or to implement a new technology is a common task for front-end and junior developers.
+**Refactoring** existing code means to improve it without changing what it does.
 
-> **Important**: When working with someone else's code, we should adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
+> **Important**: When working with someone else's code, we should all adhere to the **Scout Rule**&mdash;always leave the code a little cleaner than when you found it.
 
 
 ## Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](images/Horiseon_web.gif)
 
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements will not look like the mock-up at a resolution smaller than 768px. 
 
 ## Instructions
 
