@@ -16,7 +16,7 @@ My objective was to refactor the code so that it's optimized for search engines 
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](images/Horiseon_web.gif)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](https://github.com/boocipher/Horiseon_refactor/raw/master/assets/images/Horiseon_web.gif)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements will not look like the mock-up at a resolution smaller than 768px. 
 
