@@ -2,7 +2,7 @@
 
 ## What Is This Project?
 
-This is the code for a simple landing web page that contains navigation bar that provides quick acess to different sections on the page, images, and sections with key info. The original code was provided as part of the Full Stack Web Dev Bootcamp at the University of Austin. Make sure to check them out [here](https://techbootcamps.utexas.edu/coding/) 
+This is the code for a simple landing web page that contains navigation bar that provides quick acess to different sections on the page, images, and sections with key info. The original code was provided as part of the Full Stack Web Dev Bootcamp at the University of Texas at Austin. Make sure to check them out [here](https://techbootcamps.utexas.edu/coding/) 
 
 ## What Is The Objective?
 My objective was to refactor the code so that it's optimized for search engines and meets accessibility standards.
