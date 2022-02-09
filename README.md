@@ -1,4 +1,4 @@
-# Refatored Marketing Company Landing Web Page
+# Refactored Marketing Company Landing Web Page
 
 ## What Is This Project?
 
